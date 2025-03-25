@@ -5,7 +5,7 @@ public class Subject {
     private String subjectCode;
     private List<Assignment> Assignments;
 
-    
+
 
     public void createAssignment() {}
     public void deleteAssignment(String name) {}
